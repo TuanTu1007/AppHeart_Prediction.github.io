@@ -1,5 +1,5 @@
-Lập trình Python \n
+Lập trình Python 
 
 Clone repo
 
-\nRun main.py
+Run main.py
