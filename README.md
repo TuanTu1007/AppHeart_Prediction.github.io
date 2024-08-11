@@ -1,5 +1,1 @@
-Lập trình Python 
-
-Clone repo
-
-Run main.py
+APPLICATION FOR PREDICTING HEART DISEASE USING MACHINE LEARNING
